@@ -1,0 +1,11 @@
+/Users/willwin.wang/Dev/universal-abstractions/HandsOn01/bin/Debug/netcoreapp2.1/HandsOn01.deps.json
+/Users/willwin.wang/Dev/universal-abstractions/HandsOn01/bin/Debug/netcoreapp2.1/HandsOn01.runtimeconfig.json
+/Users/willwin.wang/Dev/universal-abstractions/HandsOn01/bin/Debug/netcoreapp2.1/HandsOn01.runtimeconfig.dev.json
+/Users/willwin.wang/Dev/universal-abstractions/HandsOn01/bin/Debug/netcoreapp2.1/HandsOn01.dll
+/Users/willwin.wang/Dev/universal-abstractions/HandsOn01/bin/Debug/netcoreapp2.1/HandsOn01.pdb
+/Users/willwin.wang/Dev/universal-abstractions/HandsOn01/obj/Debug/netcoreapp2.1/HandsOn01.csprojAssemblyReference.cache
+/Users/willwin.wang/Dev/universal-abstractions/HandsOn01/obj/Debug/netcoreapp2.1/HandsOn01.csproj.CoreCompileInputs.cache
+/Users/willwin.wang/Dev/universal-abstractions/HandsOn01/obj/Debug/netcoreapp2.1/HandsOn01.AssemblyInfoInputs.cache
+/Users/willwin.wang/Dev/universal-abstractions/HandsOn01/obj/Debug/netcoreapp2.1/HandsOn01.AssemblyInfo.cs
+/Users/willwin.wang/Dev/universal-abstractions/HandsOn01/obj/Debug/netcoreapp2.1/HandsOn01.dll
+/Users/willwin.wang/Dev/universal-abstractions/HandsOn01/obj/Debug/netcoreapp2.1/HandsOn01.pdb
